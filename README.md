@@ -1,5 +1,5 @@
 # Intervelo
- 
+Intervalometer application for Canon Cameras supporting CCAPI
 # Using the Canon Camera Control API (CCAPI) which gives access to the following:
     - Using the CCAPI you can control several aspects of the camera including:
     - Remotely press the shutter button / take a picture
